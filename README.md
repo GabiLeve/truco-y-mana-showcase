@@ -20,7 +20,7 @@ El sistema se encuentra funcional y desplegado en producción:
 
 
 ## 📁 Repositorios
-* **Repositorio Frontend:** [GitHub - Frontend](https)
+* **Repositorio Frontend:** [GitHub - Truco y Maña Frontend](https://github.com/GabiLeve/truco-y-mana-frontend.git)
 * **Repositorio Backend:** [GitHub - Truco y Maña Backend](https://github.com/GabiLeve/truco-y-mana-backend.git)
 
 
