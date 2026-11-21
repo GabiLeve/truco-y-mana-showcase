@@ -4,28 +4,32 @@
 
 ---
 
-## 💡 Sobre el Proyecto & Mi Propósito
+## Sobre el Proyecto & Mi Propósito
 Este repositorio funciona como un **escaparate técnico (Showcase)** de mi autoría y participación directa dentro del proyecto colaborativo **Truco y Maña**. 
 
 *Nota: Por motivos de confidencialidad y políticas de privacidad del equipo original, el código fuente completo del sistema backend y frontend se encuentra en repositorios privados. Aquí expongo los módulos, la arquitectura y las soluciones en las que trabajé activamente.*
 
-## 🌐 Despliegue de la Aplicación
+## Despliegue de la Aplicación
 El sistema se encuentra funcional y desplegado en producción:
 * **Acceso a la plataforma:** [trucoymana.vercel.app](https://trucoymana.vercel.app)
 
-🔑 **Credenciales de prueba para ingreso rápido:**
+ **Credenciales de prueba para ingreso rápido:**
 * **Email / Usuario:** `usuarioDemo@mail.com` (o `usuarioDemo`)
 * **Contraseña:** `usuarioDemo11`
 
+ **Cómo acceder al Modo Historia (Guía rápida):**
+
+<img width="1280" height="450" alt="pasos para jugar" src="https://github.com/user-attachments/assets/0c995621-b947-4750-b067-10958a13217d" />
 
 
-## 📁 Repositorios
+
+## Repositorios
 * **Repositorio Frontend:** [GitHub - Truco y Maña Frontend](https://github.com/GabiLeve/truco-y-mana-frontend.git)
 * **Repositorio Backend:** [GitHub - Truco y Maña Backend](https://github.com/GabiLeve/truco-y-mana-backend.git)
 
 
 
-## 🛠️ Stack Tecnológico Utilizado
+## Stack Tecnológico Utilizado
 * **Backend:** C# | .NET Core | ASP.NET Core Web API | Entity Framework Core
 * **Frontend:** Angular | TypeScript | JavaScript | HTML5 | CSS3 | Phaser
 * **Base de Datos & Deploy:** MySQL | Aiven | Render | Vercel
